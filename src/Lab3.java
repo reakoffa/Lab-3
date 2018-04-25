@@ -3,6 +3,9 @@ import java.util.Scanner;
 public class Lab3 {
 
 	public static void main(String[] args) {
+		
+		// Anthony Reakoff, Lab 3 on 4/25/18
+		
 		String ans;
 		Scanner scnr = new Scanner(System.in);
 		
