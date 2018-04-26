@@ -38,9 +38,9 @@ public class Lab3 {
 			
 		} while(ans.equalsIgnoreCase("y"));
 		
-		if (ans != "y") {
+		//if (ans != "y") {
 			System.out.println("Goodbye!");
-		}
+		//}
 	}
 
 }
